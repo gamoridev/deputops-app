@@ -4,7 +4,7 @@ backports.ssl-match-hostname==3.5.0.1
 chardet==3.0.4
 cycler==0.10.0
 GDAL==2.2.4
-httplib2==0.10.3
+httplib2==0.18.0
 idna==2.5
 ipaddress==1.0.18
 Jinja2==2.10
